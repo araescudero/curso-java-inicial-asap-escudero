@@ -21,7 +21,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.github.sanchezih</groupId>
-			<artifactId>ort-p1-lib</artifactId>
+			<artifactId>ihs-java-util</artifactId>
 			<version>main-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
