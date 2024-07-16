@@ -11,7 +11,8 @@ import com.github.sanchezih.util.io.Consola;
 public class Ejercicio2 {
 
 	public static void main(String[] args) {
-		int array [] = new int [10]; // Tamaño del array.
+		final int CANT_ELEMENTOS = 10;
+		int array [] = new int [CANT_ELEMENTOS]; // Tamaño del array.
 		int numero = 0, posMayor =0, posMenor = 0;
 		int mayor, menor;
 		mayor = menor = array [0];
