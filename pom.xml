@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.araescudero</groupId>
-    <artifactId>ejercicios-asap</artifactId>
+    <artifactId>curso-java-inicial-asap-escudero</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
